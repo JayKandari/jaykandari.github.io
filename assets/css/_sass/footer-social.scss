@@ -75,9 +75,19 @@
 }
 
 .rounded-social-buttons .social-button.drupal:hover, .rounded-social-buttons .social-button.drupal:focus {
-  color: #007bb5;
+  color: #0678be;
   background: #fefefe;
-  border-color: #007bb5;
+  border-color: #0678be;
+}
+
+.rounded-social-buttons .social-button.stackoverflow {
+  background: #f48024;
+}
+
+.rounded-social-buttons .social-button.stackoverflow:hover, .rounded-social-buttons .social-button.stackoverflow:focus {
+  color: #f48024;
+  background: #fefefe;
+  border-color: #f48024;
 }
 
 .rounded-social-buttons .social-button.github {
