@@ -1,4 +1,4 @@
-{%- if site.analytics -%}
+{%- if site.analytics and jekyll.environment == "production" -%}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analytics}}"></script>
 <script>
@@ -8,4 +8,8 @@
 
   gtag('config', '{{site.analytics}}');
 </script>
+{%- endif -%}
+{%- if site.analytics and jekyll.environment == "development" -%}
+<!-- Analytics removed since this is a development environment. -->
+<!-- Configured GA Account: {{ site.analytics }} -->
 {%- endif -%}
