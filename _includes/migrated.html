@@ -1,0 +1,5 @@
+{%- if page.migrated_url and page.migrated_source -%}
+<div class="migrated-content">
+  <p>This content was first posted on <a href="{{ page.migrated_url }}" target="_blank">{{ page.migrated_source }}</a>.</p>
+</div>
+{%- endif -%}

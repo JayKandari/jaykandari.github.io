@@ -1,5 +1,0 @@
----
-title: test post
-layout: post
----
-This is a sample test post

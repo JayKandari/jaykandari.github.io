@@ -13,7 +13,7 @@ I am a web enthusiast primarily focused on [Drupal](https://www.drupal.org){:tar
 
 Apart from writing code, I also enjoy mentoring. Help folks learn Web fundamentals, Drupal, etc. Also, I like to onboard people to the world of Open Source.
 
-My main goal in creating this personal space is to share my findings & experiences. Learn new stuff like static website generator and most importantly to get into a regular habit of writing blogs. I have written a few posts in the past which you can find in the blogs section(coming soon).
+My main goal in creating this personal space is to share my findings & experiences. Learn new stuff like static website generator and most importantly to get into a regular habit of writing blogs. I have written a few posts in the past which you can find in the blogs section.
 
 #### About QED42
 [QED42](https://www.qed42.com){:target="_blank"} is a Digital Agency specialized in Product Engineering, Design, Drupal, Javascript & Quality Assurance. Check out their [careers](https://www.qed42.com/careers){:target="_blank"} section if you want to be a part of an awesome team. 🙂

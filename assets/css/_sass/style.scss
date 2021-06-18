@@ -170,3 +170,12 @@ blockquote {
 
 .scroll::-webkit-scrollbar {
   display: none; }
+
+/* Migrated Content */
+.migrated-content {
+  background-color: $beige;
+  padding: 5px 20px;
+  border-radius: 10px;
+  font-size: 0.9em;
+  font-style: italic;
+}
